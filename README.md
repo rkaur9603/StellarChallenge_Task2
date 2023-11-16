@@ -1,4 +1,4 @@
-# Stellar_challenge_Task2
+# StellarChallenge_Task2
 Here, an existing webpage is given a CSS makeover by using different CSS properties and given a new look by changing the background image, font color, style etc.
 
 Here is the preview of the existing website:
